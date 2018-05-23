@@ -21,7 +21,7 @@
       <author>info@exp-ai.com (exp-ai)</author>
       <guid>/apps/healthcare/</guid>
       <description> Healthcare This is my healthcare App!
-Couldn&#39;t Load :( </description>
+  window.addEventListener(&#34;load&#34;, function() { var s = document.createElement(&#34;span&#34;).appendChild(document.createTextNode(&#34;Couldn\x27t Load iframe :(&#34;)); var i = document.createElement(&#34;iframe&#34;); i.id = &#34;iframe-healthcare-heroku&#34;; i.src = &#34;https:\/\/healthcare-apps.herokuapp.com\/&#34;; i.width = &#34;100%&#34;; i.height = &#34;700&#34;; i.name = &#34;heroku&#34;; document.getElementById(&#34;iframe-wrapper-18&#34;).appendChild(i); }, false);  </description>
     </item>
     
   </channel>
