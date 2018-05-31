@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on exp-ai</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on exp-ai</description>
+    <title>Tags on Exp-AI</title>
+    <link>https://danielperezr88.github.io/tags/</link>
+    <description>Recent content in Tags on Exp-AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>info@exp-ai.com (exp-ai)</managingEditor>
-    <webMaster>info@exp-ai.com (exp-ai)</webMaster>
-    <copyright>(c) 2018 Exp-ai.</copyright>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielperezr88.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/tags/tutorial/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,63 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on exp-ai</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on exp-ai</description>
+    <title>Categories on Exp-AI</title>
+    <link>https://danielperezr88.github.io/categories/</link>
+    <description>Recent content in Categories on Exp-AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>info@exp-ai.com (exp-ai)</managingEditor>
-    <webMaster>info@exp-ai.com (exp-ai)</webMaster>
-    <copyright>(c) 2018 Exp-ai.</copyright>
-    <lastBuildDate>Tue, 22 May 2018 12:34:14 +0200</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://danielperezr88.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/categories/</link>
-      <pubDate>Tue, 22 May 2018 12:34:14 +0200</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>/categories/healthcare/</link>
-      <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/categories/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>/categories/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>/categories/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <author>info@exp-ai.com (exp-ai)</author>
-      <guid>/categories/jekyll/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
